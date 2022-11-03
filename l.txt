@@ -1,3 +1,5 @@
 it is used to make local as remote repository
 we make it as remote repository.
 we have to use git push -u origin master insted of git push
+i am just addin one other line 
+
