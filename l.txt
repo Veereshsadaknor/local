@@ -2,4 +2,7 @@ it is used to make local as remote repository
 we make it as remote repository.
 we have to use git push -u origin master insted of git push
 i am just addin one other line 
-hell is well by its climate 
+hell is well by its climate
+well come to the class 
+dear friends we will do nothing 
+
